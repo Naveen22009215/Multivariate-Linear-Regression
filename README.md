@@ -46,10 +46,11 @@ print("Predicted CO2 emission based on weight and volume",predictedCO2)
 ![multivariative](/op1.png)
 
 ### Insert your output
+```
 Coefficient: [0.00755095 0.00780526]
 Intercept: 79.69471929115939
 Predicted CO2 emission based on weight and volume [98.83320352]
-
+```
 
 
 ## Result
